@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+NOHU90 - Nền Tảng Cá Cược Trực Tuyến Hàng Đầu Năm 2024
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`NOHU90 <https://nohu90.luxury/>`_ là một nền tảng cá cược trực tuyến đang thu hút đông đảo người chơi tại Việt Nam, nổi bật với sự đa dạng của các trò chơi như cá cược thể thao, casino, game slot, và quay hũ. Được thành lập với mục tiêu tạo ra một sân chơi giải trí hàng đầu, NOHU90 nhanh chóng phát triển từ một trang web nhỏ thành một thương hiệu uy tín, cung cấp hơn 1000 trò chơi phong phú. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Với giao diện tối ưu, hệ thống bảo mật an ninh hàng đầu, và chính sách chăm sóc khách hàng chuyên nghiệp, NOHU90 không chỉ mang đến trải nghiệm giải trí đỉnh cao mà còn đảm bảo sự an tâm tuyệt đối cho người chơi. NOHU90 hiện cũng cung cấp ứng dụng di động, tặng thưởng 909k khi tải về, giúp người dùng dễ dàng truy cập và tận hưởng trò chơi mọi lúc, mọi nơi.
 
-.. note::
+Thông tin liên hệ: 
 
-   This project is under active development.
+Địa chỉ: 14 Thích Quảng Đức, Phường 5, Phú Nhuận, Hồ Chí Minh, Việt Nam. 
 
-Contents
---------
+Phone: 0958841657. 
 
-.. toctree::
+Email: info@nohu90.luxury. 
 
-   usage
-   api
+Website: https://nohu90.luxury/
+
+#nohu90 #nhacainohu90 #trangchunohu90 #dangkynohu90 #linknohu90
